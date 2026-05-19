@@ -9,7 +9,7 @@ The game challenges users to stack properly as many blocks as possible, trying t
 
 
 ## Steps to use Program
-Here is the finished product of the final game I have made - 
+Here is the finished product of the final game I have made ->
 Below are the steps to use and/or costomize the game to your liking:
 - 
 - 
