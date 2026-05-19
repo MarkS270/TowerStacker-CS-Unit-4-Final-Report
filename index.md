@@ -11,3 +11,5 @@ A short intro (interests, goals, tools I’m learning).
 
 ---
 *Update this page by editing `index.md` in your repository.*
+
+[Version #1 .docx](../assets/PhysicsFrictionLab.docx)
