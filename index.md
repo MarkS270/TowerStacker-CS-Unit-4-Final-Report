@@ -12,8 +12,11 @@ Here is the finished product of the final game I have made ->
 
 Below are the steps to use and/or customize the game to your liking:
 1. Scroll below to see th Tower Stacker Versions listed.
+
 2a. Choose any of the versions to play. Each has text that says what is new to each version. (It is advized not to take VERSION #1 since it doesn't work.)
+
 2b. If you choose any game version #5 and above and you want to change speed of block and fiddle with other speed settings, .......
+
 3. Then run the code, enter a username (leaving the space blank or with only spaces will result in an error), and play the game as much as you want. A leaderboard will be created to hold previous score runs.
 
 ## Purpose and Goals
