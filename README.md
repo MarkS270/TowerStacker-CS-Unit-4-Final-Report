@@ -9,8 +9,11 @@ The game challenges users to stack properly as many blocks as possible, trying t
 
 
 ## Steps to use Program
+
 Here is the finished product of the final game I have made ->
+
 Below are the steps to use and/or costomize the game to your liking:
+
 - 
 - 
 - 
@@ -21,8 +24,6 @@ For those who would like to see the progress of my game or try previous versions
 
 ## Purpose and Goals
 The purpose of this Unit 4 Project is to use many of the concepts we have learned for coding java so far which include Collision Detection, Button and Mouse Events, Abstract lasses and Inheritance, and GUI Design + Files I/O.
-
-
 
 ## Additional Notes
 
