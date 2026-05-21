@@ -8,7 +8,12 @@ The game challenges users to stack properly as many blocks as possible, trying t
 
 ## Steps to use Program
 
-Here is the finished product of the final game I have made ->
+Here is the finished product of the final game I have made:
+Version #7:
+- 
+- 
+- 
+- 
 
 Below are the steps to use and/or customize the game to your liking:
 1. Scroll below to see th Tower Stacker Versions listed.
@@ -20,8 +25,6 @@ Below are the steps to use and/or customize the game to your liking:
 The purpose of this Unit 4 Project is to use many of the concepts we have learned for coding java so far which include Collision Detection, Button and Mouse Events, Abstract lasses and Inheritance, and GUI Design + Files I/O.
 
 ## Additional Notes
-### .........
-
 ### Tower Stacker Versions
 The Tower Stacker version downloads are below with some extra details that differentiate each from there previous version.
 - [Version #1 .docx](./assets/GameVERSION1.docx) -> Initial Game code Generation, doesnt allow game play
