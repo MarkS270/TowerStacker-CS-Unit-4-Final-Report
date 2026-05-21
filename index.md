@@ -9,11 +9,13 @@ The game challenges users to stack properly as many blocks as possible, trying t
 ## Steps to use Program
 
 Here is the finished product of the final game I have made:
+
 Version #7:
-- 
-- 
-- 
-- 
+
+- Main game file -> 
+- Game Screen -> 
+- Game Panel -> 
+- Leaderboard Screen -> 
 
 Below are the steps to use and/or customize the game to your liking:
 1. Scroll below to see th Tower Stacker Versions listed.
