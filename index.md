@@ -17,13 +17,23 @@ Here is the finished product of the final game I have made:
 - Leaderboard Screen -> [Version #7 Leaderboard .docx](./assets/GameVERSION7-leaderboard.docx)
 
    
-#### Below are the steps to use and/or customize the game to your liking:
+#### Below are the steps to get and customize the game to your liking:
 1. Scroll below to see th Tower Stacker versions listed or use the final version above
 2. Download the document and open them up. If you downloaded the ones below you only need to make one java file named **TowerStacker.java**. If you downloaded the final version documents, use the names listed here respectively: **(TowerStacker.java, GamePanel.java, GameScreen.java, LeaderBoardScreen.java)**
 3. For the game versions #5 and 6, and above and you want to change speed of block and fiddle with other speed settings, please search for SPEED_INCREASE_ENABLED. This will allow you to use speed incrementation or not, or be able to change speed in general.
 5. To fiddle with speed in version #7 go to the GamePanel.java and search for SPEED_INCREASE_ENABLED. This will allow you to use speed incrementation or not, or be able to change speed in general.
-6. Now you can run your code. If you are on the final version please make sure you are on the TowerStacker.java file to run program to play game.
-7. If you want to fiidle with the code, do so at your own risk and disclosure.
+6. If you want to fiidle with the code, do so at your own risk and disclosure.
+7. Now you can run your code. If you are on the final version please make sure you are on the TowerStacker.java file to run program to play game. The steps to play the game are below.
+
+#### Below are the steps to play the game
+1. If you have not done the steps above please do those first.
+2. Now that you have your code, run it.
+3. You should get a pop up. There please enter a username to your liking. Please do not put spaces only, it will not work.
+4. After clicking the Start Game button, another screen will appear.
+5. To start the game press the spacebar. You will be able to start anywhere, but you will have to continue from that spot.
+6. No matter what version you are on try your best to get as high a score as possible.
+7. After failing to put the box correctly at any point in time, the code will send you to a leaderbard screen where you will see your score and all previous scores. (If it is your first time, there will only be one.)
+8. To do a new game please exit by pressing the X and run the code again.
 
 
 ## Purpose and Goals
