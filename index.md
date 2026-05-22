@@ -10,18 +10,21 @@ The game challenges users to stack properly as many blocks as possible, trying t
 
 Here is the finished product of the final game I have made:
 
-Version #7:
+#### Version #7:
+- Main game file -> [Version #7 Main .docx](./assets/GameVERSION7-main.docx)
+- Game Screen -> [Version #7 Panel .docx](./assets/GameVERSION7-panel.docx)
+- Game Panel -> [Version #7 Screen .docx](./assets/GameVERSION7-screen.docx)
+- Leaderboard Screen -> [Version #7 Leaderboard .docx](./assets/GameVERSION7-leaderboard.docx)
 
-- Main game file -> 
-- Game Screen -> 
-- Game Panel -> 
-- Leaderboard Screen -> 
+   
+#### Below are the steps to use and/or customize the game to your liking:
+1. Scroll below to see th Tower Stacker versions listed or use the final version above
+2. Download the document and open them up. If you downloaded the ones below you only need to make one java file named **TowerStacker.java**. If you downloaded the final version documents, use the names listed here respectively: **(TowerStacker.java, GamePanel.java, GameScreen.java, LeaderBoardScreen.java)**
+3. For the game versions #5 and 6, and above and you want to change speed of block and fiddle with other speed settings, please search for SPEED_INCREASE_ENABLED. This will allow you to use speed incrementation or not, or be able to change speed in general.
+5. To fiddle with speed in version #7 go to the GamePanel.java and search for SPEED_INCREASE_ENABLED. This will allow you to use speed incrementation or not, or be able to change speed in general.
+6. Now you can run your code. If you are on the final version please make sure you are on the TowerStacker.java file to run program to play game.
+7. If you want to fiidle with the code, do so at your own risk and disclosure.
 
-Below are the steps to use and/or customize the game to your liking:
-1. Scroll below to see th Tower Stacker Versions listed.
-2. Choose any of the versions to play. Each has text that says what is new to each version. (It is advized not to take VERSION #1 since it doesn't work.)
-3. If you choose any game version #5 and above and you want to change speed of block and fiddle with other speed settings, .......
-4. Then run the code, enter a username (leaving the space blank or with only spaces will result in an error), and play the game as much as you want. A leaderboard will be created to hold previous score runs.
 
 ## Purpose and Goals
 The purpose of this Unit 4 Project is to use many of the concepts we have learned for coding java so far which include Collision Detection, Button and Mouse Events, Abstract lasses and Inheritance, and GUI Design + Files I/O.
